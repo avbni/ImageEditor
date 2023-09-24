@@ -1,3 +1,3 @@
 # ImageEditor
-
-Helps you change contrast, blue , x y z axis of an image. You can save the same on your computer.
+Simple Python Image Editor
+Helps you change contrast and blur with the help of slider , Can flip image on x and y axis. Enables you to use various filters such as Emboss and Contour.You can save the same on your computer.
